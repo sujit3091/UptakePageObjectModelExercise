@@ -1,0 +1,14 @@
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\Webdriver\chromedriver.exe
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\Webdriver\chromedriver-license.txt
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\PageObjectModelExercise.exe.config
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\PageObjectModelExercise.exe
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\PageObjectModelExercise.pdb
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\nunit.framework.dll
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\WebDriver.dll
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\WebDriver.Support.dll
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\nunit.framework.xml
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\WebDriver.xml
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\bin\x86\Release\WebDriver.Support.xml
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\obj\x86\Release\PageObjectModelExercise.exe
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\obj\x86\Release\PageObjectModelExercise.pdb
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\PageObjectModelExercise\PageObjectModelExercise\obj\x86\Release\PageObjectModelExercise.csprojResolveAssemblyReference.cache
