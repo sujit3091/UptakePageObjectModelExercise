@@ -13,7 +13,7 @@ namespace PageObjectModelExercise.Tests
         {
             PropertiesCollections.driver = new FirefoxDriver();
             _page = new JobsPageObjects();
-            NavigateToBlogPage();
+            NavigateToJobsPage();
         }
 
         [TestFixtureTearDown]
@@ -25,9 +25,12 @@ namespace PageObjectModelExercise.Tests
         [Test]
         public void NavigateToJobsPageTest()
         {
-            var page = new JobsPageObjects();
-            NavigateToJobsPage();
-            Assert.IsTrue(page.HeroHeader.Displayed);
+            Assert.IsTrue(_page.HeroHeader.Displayed);
+        }
+        [Test]
+        public void VerifyJobsPageTitle()
+        {
+            Assert.AreEqual("Join Us | Uptake", PropertiesCollections.driver.Title);
         }
     }
 }

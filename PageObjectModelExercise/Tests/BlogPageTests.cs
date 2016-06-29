@@ -30,8 +30,10 @@ namespace PageObjectModelExercise.Tests
             _page.TxtSearchBox.SendKeys("A note from brad");
             _page.BtnSubmit.Click();
 
-            //There should be a better way to do this
+            //TO DO: There should be a better way to do this
             Assert.IsTrue(PropertiesCollections.driver.FindElement(By.CssSelector("a[href='http://uptake.com/a-note-from-brad/']")).Displayed);
         }
+        
+        
     }
 }
